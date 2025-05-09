@@ -14,7 +14,7 @@ module.exports = () => {
     version: "0.10.1",
     orientation: "portrait",
     splash: {
-      image: "./assets/splash-orelse.png",
+      image: "assets/images/Orelse_logo.png",
       resizeMode: "contain",
       backgroundColor: "#ffffff",
     },
