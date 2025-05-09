@@ -5,7 +5,7 @@ const buildNumber = 51;
 
 module.exports = () => {
   return {
-    name: "NMF.earth",
+    name: "Orelse.ai",
     plugins: ["sentry-expo",
               "expo-localization"],
     slug: "not-my-fault-earth",
@@ -14,7 +14,7 @@ module.exports = () => {
     version: "0.10.1",
     orientation: "portrait",
     splash: {
-      image: "./assets/images/splash.png",
+      image: "./assets/splash-orelse.png",
       resizeMode: "contain",
       backgroundColor: "#ffffff",
     },
